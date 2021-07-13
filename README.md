@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ### Soy Full Stack developer
 
-Soy de Misiones, Argentina. Me fascina la idea de optimizar procesos y recursos, es la clave para lograr un futuro sustentable.
+Soy de Misiones, Argentina. Me fascina la idea de optimizar procesos y recursos, es la clave para lograr un futuro sustentable. 
+Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). 
 
 Technical skills: 
 <p align="center">
