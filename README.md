@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Soy Full Stack developer
+
+Technical skills:
+- JavaScript 
+- React 
+- Node 
+- SQL 
+- Supabase 
