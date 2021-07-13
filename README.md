@@ -45,7 +45,7 @@ Technical skills:
  <p align="center">
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-juarez&theme=vue-dark />
  <br></br>
- <img src=https://github-readme-stats.vercel.app/api?username=jrodri-juarez&show_icons=true&theme=vue-dark />
+ <img src=https://github-readme-stats.vercel.app/api?username=rodri-juarez&show_icons=true&theme=vue-dark />
  
 
  </p>
