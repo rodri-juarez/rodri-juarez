@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Soy Full Stack developer
+
+Soy de Misiones, Argentina. Me fascina la idea de optimizar procesos y recursos, es la clave para lograr un futuro sustentable.
 
 Technical skills:
 - JavaScript 
