@@ -42,7 +42,8 @@ Technical skills:
  
  <br></br>
  
- <img src="https://i.ibb.co/10mRhMF/start.png" heigth='400px' width="400px"/>
+ <p align="center"><img src="https://i.ibb.co/10mRhMF/start.png" heigth='400px' width="400px"/> HENRY VIDEOGAMES: Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redus como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas. la SPA consume datos de una API (rawg) a traves de un Back End desarrollado en Node Js utilizando Express, y Postgres para la base de datos, agregando nuevas funcionalidades a la API original.
+Algunas features del proyecto: Cache de busquedas, ordenamientos y filtros, formulario controlado para creacion de nuevos videojuegos. </p>
  <img src="https://i.ibb.co/HxyGk2D/home.png" heigth='500px' width="400px"><img src="https://i.ibb.co/TwKXsTW/create.png" heigth='400px' width="400px">
 
  <p align="center"> Stats </p>
