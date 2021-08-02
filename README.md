@@ -41,6 +41,9 @@ Technical skills:
 </p>
  
  <br></br>
+ 
+ <img src='https://ibb.co/RgDQZNR' width="30vw"/>
+ <br></br>
  _
  ## <p align="center"> Stats </p>
  <p align="center">
