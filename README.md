@@ -42,7 +42,7 @@ Technical skills:
  
  <br></br>
  
- <img src="https://i.ibb.co/10mRhMF/start.png" heigth='400px' width="400px"/>
+ <img src="https://i.ibb.co/10mRhMF/start.png" heigth='400px' width="400px"/><img src="https://i.ibb.co/HxyGk2D/home.png" heigth='400px' width="400px">
  <br></br>
 
  <p align="center"> Stats </p>
