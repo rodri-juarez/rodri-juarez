@@ -42,10 +42,10 @@ Technical skills:
  
  <br></br>
  
- <img src="https://i.ibb.co/10mRhMF/start.png" width="30vw"/>
+ <img src="https://i.ibb.co/10mRhMF/start.png" heigth='30vw' width="30vw"/>
  <br></br>
- _
- ## <p align="center"> Stats </p>
+
+ <p align="center"> Stats </p>
  <p align="center">
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-juarez&theme=vue-dark />
  <br></br>
