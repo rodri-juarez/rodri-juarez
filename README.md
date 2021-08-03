@@ -49,7 +49,7 @@ Features del proyecto:
 - Autenticacion de 2 pasos.
 - Validacion de DNI con IA.</p>
  
- <p aling='center><img src="https://i.ibb.co/xFsCVx6/landing-Cripto.png" heigth='400px' width="400px"></p>
+ <img src="https://i.ibb.co/xFsCVx6/landing-Cripto.png" heigth='400px' width="400px">
  
  
  
