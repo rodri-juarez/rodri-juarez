@@ -49,6 +49,10 @@ Features del proyecto:
 - Autenticacion de 2 pasos.
 - Validacion de DNI con IA.</p>
  
+ <p aling='center><img src="https://i.ibb.co/xFsCVx6/landing-Cripto.png" heigth='400px' width="400px"></p>
+ 
+ 
+ 
  
  
  <p align="center"> HENRY VIDEOGAMES: Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redus como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas. la SPA consume datos de una API (rawg) a traves de un Back End desarrollado en Node Js utilizando Express, y Postgres para la base de datos, agregando nuevas funcionalidades a la API original.
