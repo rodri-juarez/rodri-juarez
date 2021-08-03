@@ -1,4 +1,4 @@
-<p align="center">##Hola, soy Rodrigo! 👋 </p>
+>##Hola, soy Rodrigo! 👋
 
 <!--
 **rodri-juarez/rodri-juarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">###Soy Full Stack developer </p>
+###Soy Full Stack developer 
 
 Soy de Misiones, Argentina. Me fascina la idea de optimizar procesos y recursos, es la clave para lograr un futuro sustentable. 
 Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). 
