@@ -54,6 +54,7 @@ Features del proyecto:
  
  <p align="center"><img src="https://i.ibb.co/YykqVF6/home-Cripto.png" heigth='300px' width="400px"></p>
  
+ <p align="center"><img src="https://i.ibb.co/5vKJPhw/deposit.png" heigth='300px' width="400px"></p>
  
  
  
