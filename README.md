@@ -40,6 +40,17 @@ Technical skills:
 </p>
  
  <br></br>
+ <p align="center">Rocket Xchange: Plataforma creada en la blockchain Stellar. (www.stellar.org)
+Features del proyecto:
+- Smarts contract
+- Compra-venta de divisas fiat y criptomonedas
+- Transferencias bancarias
+- Cotizaciones en tiempo real de criptomonedas
+- Creacion de sub-cuentas y fusion de cuentas
+- Autenticacion de 2 pasos.
+- Validacion de DNI con IA.</p>
+ 
+ 
  
  <p align="center"> HENRY VIDEOGAMES: Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redus como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas. la SPA consume datos de una API (rawg) a traves de un Back End desarrollado en Node Js utilizando Express, y Postgres para la base de datos, agregando nuevas funcionalidades a la API original.
 Algunas features del proyecto: Cache de busquedas, ordenamientos y filtros, formulario controlado para creacion de nuevos videojuegos. Link: https://videogames-henry.vercel.app/ </p>
