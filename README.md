@@ -40,7 +40,7 @@ Technical skills:
  
  <br></br>
  <p align="center">Rocket Xchange: Plataforma creada en la blockchain Stellar. (www.stellar.org). Link: https://rocketxchange.vercel.app/
- 
+Se integro a Stripe como procesador de pago.
 Features del proyecto:
 - Smarts contract
 - Compra-venta de divisas fiat y criptomonedas
