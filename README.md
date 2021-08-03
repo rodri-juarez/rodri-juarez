@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Soy Full Stack developer 
 
-Soy de Misiones, Argentina. Me fascina la idea de optimizar procesos y recursos, es la clave para lograr un futuro sustentable. 
-Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). 
+Soy de Misiones, Argentina. Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). 
 
 Technical skills: 
 <p align="center">
@@ -40,7 +39,7 @@ Technical skills:
 </p>
  
  <br></br>
- <p align="center">Rocket Xchange: Plataforma creada en la blockchain Stellar. (www.stellar.org)
+ <p align="center">Rocket Xchange: Plataforma creada en la blockchain Stellar. (www.stellar.org). 
 Features del proyecto:
 - Smarts contract
 - Compra-venta de divisas fiat y criptomonedas
