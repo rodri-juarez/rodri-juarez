@@ -26,8 +26,7 @@ const rodri = {
   challenge: "Learning about Blockchain. It is the future"
 }
 ```
-
-### My Tech Stack
+## <p align="center"> My Tech Stack </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -43,6 +42,9 @@ const rodri = {
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
  <br></br>
+ 
+ ## <p align="center"> Projects </p>
+ 
  ### Rocket Xchange: 
  <p>Plataforma creada en la blockchain Stellar. (www.stellar.org).
 Se integro a Stripe como procesador de pago.
@@ -75,9 +77,7 @@ Algunas features del proyecto: Cache de busquedas, ordenamientos y filtros, form
 
  ## <p align="center"> Stats </p>
  <p align="center">
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-juarez&theme=vue-dark />
- <br></br>
- <img src=https://github-readme-stats.vercel.app/api?username=rodri-juarez&show_icons=true&theme=vue-dark />
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-juarez&theme=vue-dark /><img src=https://github-readme-stats.vercel.app/api?username=rodri-juarez&show_icons=true&theme=vue-dark />
  
 
  </p>
