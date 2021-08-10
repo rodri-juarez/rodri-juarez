@@ -1,3 +1,5 @@
+
+
 >## Hola, soy Rodrigo! 👋
 
 
@@ -5,7 +7,8 @@
 
 Soy de Misiones, Argentina. Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). 
 
-[![Linkedin: rodrigojuarez](https://img.shields.io/badge/-rodrigojuarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojuarez-dev/)](https://www.linkedin.com/in/rodrigojuarez-dev/) [![Github: rodrigojuarez](https://img.shields.io/badge/-rodrigojuarez-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodri-juarez)](https://github.com/rodri-juarez)
+#### 📫 How to reach me:
+[![Linkedin: rodrigojuarez](https://img.shields.io/badge/-rodrigojuarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojuarez-dev/)](https://www.linkedin.com/in/rodrigojuarez-dev/) [![Github: rodri-juarez](https://img.shields.io/badge/-rodrigojuarez-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodri-juarez)](https://github.com/rodri-juarez) [![Gmail: juarezr100@gmail.com](https://img.shields.io/badge/-juarezr100-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mailto:juarezr100@gmail.com)](https://mailto:juarezr100@gmail.com) [![Instagram: rodrigojuarez_](https://img.shields.io/badge/-rodrigojuarez_-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodrigojuarez_/)](https://www.instagram.com/rodrigojuarez_/)
 
 
 
