@@ -15,11 +15,11 @@ const rodri = {
   code: [Javascript, HTML, CSS],
   technologies: {
         backEnd: {
-            js: ["Node" "Express"],
+            js: ["Node", "Express"],
         },
-        frontEnd: ["React" "Redux", "Material UI"],
+        frontEnd: ["React", "Redux", "Material UI"],
         databases: ["Postgres"],
-        misc: [ "Redux", "Supabase", "Socket.IO", "Material UI"]
+        misc: [ "Supabase", "Socket.IO"]
     },
   
   challenge: "Learning about Blockchain. It is the future"
