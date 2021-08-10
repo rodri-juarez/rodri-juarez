@@ -39,7 +39,7 @@ Technical skills:
 </p>
  
  <br></br>
- - [Rocket Xchange]{https://rocketxchange.vercel.app/}
+ Link del Proyecto: https://rocketxchange.vercel.app
  <p align="center">Rocket Xchange: Plataforma creada en la blockchain Stellar. (www.stellar.org).
 Se integro a Stripe como procesador de pago.
 Features del proyecto:
@@ -59,7 +59,7 @@ Features del proyecto:
  
  
 
- -[Henry Videogames]{https://videogames-henry.vercel.app/}
+ Link del Proyecto: https://videogames-henry.vercel.app
  <p align="center"> HENRY VIDEOGAMES: Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redus como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas. la SPA consume datos de una API (rawg) a traves de un Back End desarrollado en Node Js utilizando Express, y Postgres para la base de datos, agregando nuevas funcionalidades a la API original.
 Algunas features del proyecto: Cache de busquedas, ordenamientos y filtros, formulario controlado para creacion de nuevos videojuegos.  </p>
 <p align="center"><img src="https://i.ibb.co/1sqcLX6/Page1.png" heigth='380px' width="400px"/>            <img src="https://i.ibb.co/qBtcDVB/home.png" heigth='500px' width="400px"></p>
