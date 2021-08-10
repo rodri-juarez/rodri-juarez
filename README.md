@@ -19,8 +19,8 @@ const rodri = {
             js: ["Node", "Express"],
         },
         frontEnd: ["React", "Redux", "Material UI"],
-        databases: ["Postgres"],
-        misc: [ "Supabase", "Socket.IO"]
+        databases: ["PostgreSQL"],
+        misc: [ "Supabase", "Socket.IO", "Git"]
     },
   
   challenge: "Learning about Blockchain. It is the future"
@@ -73,7 +73,7 @@ Algunas features del proyecto: Cache de busquedas, ordenamientos y filtros, form
 <p align="center"><img src="https://i.ibb.co/1sqcLX6/Page1.png" heigth='380px' width="400px"/>            <img src="https://i.ibb.co/qBtcDVB/home.png" heigth='500px' width="400px"></p>
 <p align="center"><img src="https://i.ibb.co/TwKXsTW/create.png" heigth='400px' width="400px"></p>
 
- <p align="center"> Stats </p>
+ ## <p align="center"> Stats </p>
  <p align="center">
  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-juarez&theme=vue-dark />
  <br></br>
