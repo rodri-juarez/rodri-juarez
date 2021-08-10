@@ -17,7 +17,16 @@ Here are some ideas to get you started:
 -->
 ### Soy Full Stack developer 
 
-Soy de Misiones, Argentina. Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). 
+Soy de Misiones, Argentina. Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). [![Linkedin: rodrigojuarez](https://img.shields.io/badge/-rodrigojuarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojuarez-dev/)](https://www.linkedin.com/in/rodrigojuarez-dev/)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const rodri = {
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Express.js, Supabase, Socket IO, Material UI],
+  challenge: "Learning about Blockchain. It is the future"
+}
 
 Technical skills: 
 <p align="center">
