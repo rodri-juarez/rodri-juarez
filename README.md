@@ -2,9 +2,6 @@
 
 >## Hi, i'm Rodrigo! 👋
 
-
-### i'm Full Stack developer 
-
 I'm from Misiones., Argentina. For a few years I was interested in learning to program, in 2020 I decided to launch myself into this world full of challenges but also rewards in a self-taught way and then through a bootcamp (SoyHenry). 
 
 #### 📫 How to reach me:
