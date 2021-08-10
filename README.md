@@ -2,7 +2,7 @@
 
 >## Hi, i'm Rodrigo! 👋
 
-I'm from Misiones., Argentina. For a few years I was interested in learning to program, in 2020 I decided to launch myself into this world full of challenges but also rewards in a self-taught way and then through a bootcamp (SoyHenry). 
+I'm from Misiones, Argentina. For a few years I was interested in learning to program, in 2020 I decided to launch myself into this world full of challenges but also rewards in a self-taught way and then through a bootcamp (SoyHenry). 
 <br></br>
 #### 📫 How to reach me:
 [![Linkedin: rodrigojuarez](https://img.shields.io/badge/-rodrigojuarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojuarez-dev/)](https://www.linkedin.com/in/rodrigojuarez-dev/) [![Github: rodri-juarez](https://img.shields.io/badge/-rodrigojuarez-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodri-juarez)](https://github.com/rodri-juarez) [![Gmail: juarezr100@gmail.com](https://img.shields.io/badge/-juarezr100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juarezr100@gmail.com)](mailto:juarezr100@gmail.com) [![Instagram: rodrigojuarez_](https://img.shields.io/badge/-rodrigojuarez_-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodrigojuarez_/)](https://www.instagram.com/rodrigojuarez_/)
@@ -42,7 +42,7 @@ const rodri = {
 
  <br></br>
  ### Rocket Xchange: 
- <p align="center">Plataforma creada en la blockchain Stellar. (www.stellar.org).
+ <p>Plataforma creada en la blockchain Stellar. (www.stellar.org).
 Se integro a Stripe como procesador de pago.
 Features del proyecto:
 - Smarts contract
@@ -66,7 +66,7 @@ Features del proyecto:
 
 
  ### Henry Videogames:
- <p align="center"> Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redus como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas. la SPA consume datos de una API (rawg) a traves de un Back End desarrollado en Node Js utilizando Express, y Postgres para la base de datos, agregando nuevas funcionalidades a la API original.
+ <p> Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redus como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerias externas. la SPA consume datos de una API (rawg) a traves de un Back End desarrollado en Node Js utilizando Express, y Postgres para la base de datos, agregando nuevas funcionalidades a la API original.
 Algunas features del proyecto: Cache de busquedas, ordenamientos y filtros, formulario controlado para creacion de nuevos videojuegos. Link del Proyecto: https://videogames-henry.vercel.app </p>
 <p align="center"><img src="https://i.ibb.co/1sqcLX6/Page1.png" heigth='380px' width="400px"/>            <img src="https://i.ibb.co/qBtcDVB/home.png" heigth='500px' width="400px"></p>
 <p align="center"><img src="https://i.ibb.co/TwKXsTW/create.png" heigth='400px' width="400px"></p>
