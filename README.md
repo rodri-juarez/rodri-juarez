@@ -1,6 +1,7 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+## Hi, i'm Rodrigo! 👋   
 
->## Hi, i'm Rodrigo! 👋
 
 I'm from Misiones, Argentina. For a few years I was interested in learning to code, in 2020 I decided to launch myself into this world full of challenges but also rewards in a self-taught way and then through a bootcamp (SoyHenry). 
 <br></br>
@@ -12,7 +13,7 @@ I'm from Misiones, Argentina. For a few years I was interested in learning to co
 ```javascript
 const rodri = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS],
+  code: [JavaScript, HTML, CSS],
   technologies: {
         backEnd: {
             js: ["Node", "Express"],
@@ -26,8 +27,7 @@ const rodri = {
 }
 ```
 
-
-### My Stack
+### My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -38,7 +38,9 @@ const rodri = {
 ![Socket IO](https://img.shields.io/badge/-SocketIO-000?&logo=socket.io)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
-
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
  <br></br>
  ### Rocket Xchange: 
