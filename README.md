@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Soy Full Stack developer 
 
-Soy de Misiones, Argentina. Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). 
+Soy de Misiones, Argentina. Desde hace algunos años tenia el interes por aprender a programar, en el 2020 decidi dar el salto a este mundo lleno de desafios pero tambien de recompensas de forma autodidacta y posteriormente a traves de un bootcamp (SoyHenry). - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 Technical skills: 
 <p align="center">
@@ -75,3 +75,4 @@ Algunas features del proyecto: Cache de busquedas, ordenamientos y filtros, form
  
 
  </p>
+[linkedin]: https://www.linkedin.com/in/rodrigojuarez-dev/ "Rodrigo Juarez LinkedIn"
