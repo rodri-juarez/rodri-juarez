@@ -3,7 +3,7 @@
 ## Hi, i'm Rodrigo! 👋   
 
 
-I'm from Misiones, Argentina. For a few years I was interested in learning to code, in 2020 I decided to launch myself into this world full of challenges but also rewards in a self-taught way and then through a bootcamp (SoyHenry). 
+I'm from Misiones, Argentina. For a few years I was interested in learning to code, in 2020 I decided to launch myself into this world full of challenges but also rewards in a self-taught way and then through a bootcamp (SoyHenry - +800hs). 
 <br></br>
 #### 📫 How to reach me:
 [![Linkedin: rodrigojuarez](https://img.shields.io/badge/-rodrigojuarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojuarez-dev/)](https://www.linkedin.com/in/rodrigojuarez-dev/) [![Github: rodri-juarez](https://img.shields.io/badge/-rodrigojuarez-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodri-juarez)](https://github.com/rodri-juarez) [![Gmail: juarezr100@gmail.com](https://img.shields.io/badge/-juarezr100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juarezr100@gmail.com)](mailto:juarezr100@gmail.com) [![Instagram: rodrigojuarez_](https://img.shields.io/badge/-rodrigojuarez_-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodrigojuarez_/)](https://www.instagram.com/rodrigojuarez_/)
@@ -49,7 +49,6 @@ const rodri = {
  <p>Plataforma creada en la blockchain Stellar. (www.stellar.org).
 Se integro a Stripe como procesador de pago.
 Features del proyecto:
-- Smarts contract
 - Compra-venta de divisas fiat y criptomonedas
 - Transferencias bancarias
 - Cotizaciones en tiempo real de criptomonedas
