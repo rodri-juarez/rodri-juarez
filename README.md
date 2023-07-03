@@ -73,10 +73,6 @@ Features del proyecto:
 Algunas features del proyecto: Cache de busquedas, ordenamientos y filtros, formulario controlado para creacion de nuevos videojuegos. Link del Proyecto: https://videogames-henry.vercel.app </p>
 <p align="center"><img src="https://i.ibb.co/1sqcLX6/Page1.png" heigth='380px' width="400px"/>            <img src="https://i.ibb.co/qBtcDVB/home.png" heigth='500px' width="400px"></p>
 <p align="center"><img src="https://i.ibb.co/TwKXsTW/create.png" heigth='400px' width="400px"></p>
-
- ## <p align="center"> Stats </p>
- <p align="center">
- <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-juarez&theme=vue-dark /><img src=https://github-readme-stats.vercel.app/api?username=rodri-juarez&show_icons=true&theme=vue-dark />
  
 
  </p>
