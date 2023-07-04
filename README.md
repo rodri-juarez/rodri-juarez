@@ -13,18 +13,14 @@ I'm from Misiones, Argentina. For a few years I was interested in learning to co
 ```javascript
 const rodri = {
   pronouns: "He" | "Him",
-  code: [JavaScript, HTML, CSS],
+  code: [JavaScript, Ruby],
   technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        frontEnd: ["React", "Redux", "Material UI"],
+        backEnd: [ "Ruby On Rails", "Node", "Express"],
+        frontEnd: ["React", "Next.JS",  "Angular", "Angular.JS", "Redux"],
         databases: ["PostgreSQL"],
         misc: [ "Supabase", "Socket.IO", "Git"]
     },
-  
-  challenge: "Learning about Blockchain. It is the future"
-}
+  }
 ```
 ## <p align="center"> My Tech Stack </p>
 
