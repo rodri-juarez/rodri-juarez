@@ -1,9 +1,16 @@
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
-## Hi, i'm Rodrigo! 👋   
+## Hi, I'm Rodrigo! 👋   
 
 
-I'm from Misiones, Argentina. For a few years I was interested in learning to code, in 2020 I decided to launch myself into this world full of challenges but also rewards in a self-taught way and then through a bootcamp (SoyHenry - +800hs). 
+I'm a passionate Full Stack Developer who loves crafting clean and efficient code. My journey in software development began with a curiosity that evolved into a deep-seated passion. I have worked on different projects for companies like Wisboo and Fortress.
+
+💻 On the front end, I specialize in creating dynamic and responsive user interfaces using cutting-edge technologies like React.js. I believe in the power of well-designed user experiences to enhance the overall functionality of web applications.
+
+🌐 Apart from coding, you might find me exploring the great outdoors, indulging my passion for nature, and discovering hidden spots. I believe in finding inspiration beyond the screen, and nature perfectly balances my digital endeavors.
+
+📍 Let's connect and build something amazing together! Whether it's in the code or out in the wild, I'm always up for new adventures. 💻✨
+
 <br></br>
 #### 📫 How to reach me:
 [![Linkedin: rodrigojuarez](https://img.shields.io/badge/-rodrigojuarez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigojuarez-dev/)](https://www.linkedin.com/in/rodrigojuarez-dev/) [![Github: rodri-juarez](https://img.shields.io/badge/-rodrigojuarez-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodri-juarez)](https://github.com/rodri-juarez) [![Gmail: juarezr100@gmail.com](https://img.shields.io/badge/-juarezr100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juarezr100@gmail.com)](mailto:juarezr100@gmail.com) [![Instagram: rodrigojuarez_](https://img.shields.io/badge/-rodrigojuarez_-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rodrigojuarez_/)](https://www.instagram.com/rodrigojuarez_/)
