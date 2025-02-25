@@ -19,13 +19,12 @@ I'm a passionate Full Stack Developer who loves crafting clean and efficient cod
 
 ```javascript
 const rodri = {
-  pronouns: "He" | "Him",
   code: [JavaScript, Ruby],
   technologies: {
         backEnd: [ "Ruby On Rails", "Node", "Express"],
         frontEnd: ["React", "Next.JS",  "Angular", "Angular.JS", "Redux"],
         databases: ["PostgreSQL"],
-        misc: [ "Supabase", "Socket.IO", "Git"]
+        misc: [ "Supabase", "Git"]
     },
   }
 ```
